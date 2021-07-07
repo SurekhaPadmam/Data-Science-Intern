@@ -6,4 +6,4 @@ Dataset Considered is:https://github.com/SurekhaPadmam/Data-Science-Intern/blob/
     Visualized the training set and testing set to understand easily
     Initialized the regression model and fitting it using training set (both X and y).
     Finally predicted the yvalue for given x value( for given x -9.25 hrs, predicted the corresponding yvalue)
-the code is here:
+the code is here: https://github.com/SurekhaPadmam/Data-Science-Intern/blob/main/task1/linearreg.py
