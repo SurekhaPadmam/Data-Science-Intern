@@ -5,3 +5,5 @@ Prediction using Unsupervised ML:
  Dataset Used: Iris Dataset.
  Application Used: Spyder
  Programming Language: Python 3.8
+ 
+ First, Observe Dataset and By using Elbow method, find out no of clusters. then using kmeans clustering unsupervised ml algorithm, fit model and predict.
